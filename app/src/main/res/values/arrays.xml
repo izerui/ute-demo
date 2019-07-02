@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="bracelet_interface_text">
+        <item>@string/bracelet_interface_bp</item>
+        <item>@string/bracelet_interface_heart_rate</item>
+        <item>@string/bracelet_interface_blood_oxygen</item>
+        <item>@string/bracelet_interface_calories</item>
+        <item>@string/bracelet_interface_distance</item>
+        <item>@string/bracelet_interface_weather</item>
+        <item>@string/bracelet_interface_sms</item>
+        <item>@string/bracelet_interface_features</item>
+
+        <item>@string/bracelet_interface_Step_count</item>
+        <item>@string/bracelet_interface_skipping</item>
+        <item>@string/bracelet_interface_swim</item>
+        <item>@string/bracelet_interface_riding</item>
+        <item>@string/bracelet_interface_pingpong</item>
+        <item>@string/bracelet_interface_badminton</item>
+        <item>@string/bracelet_interface_tennis</item>
+        <item>@string/bracelet_interface_run</item>
+
+        <item>@string/bracelet_interface_gps</item>
+        <item>@string/bracelet_interface_device_information</item>
+        <item>@string/bracelet_interface_find_phone</item>
+        <item>@string/bracelet_interface_donot_disturb</item>
+        <item>@string/bracelet_interface_shut_down</item>
+        <item>@string/bracelet_interface_restore_settings</item>
+        <item>@string/bracelet_interface_ECG</item>
+        <item>@string/bracelet_interface_blood_sugar</item>
+
+        <item>@string/bracelet_interface_hiking</item>
+        <item>@string/bracelet_interface_basketball</item>
+        <item>@string/bracelet_interface_football</item>
+        <item>@string/bracelet_interface_baseball</item>
+        <item>@string/bracelet_interface_volleyball</item>
+        <item>@string/bracelet_interface_cricket</item>
+        <item>@string/bracelet_interface_rugby</item>
+        <item>@string/bracelet_interface_dancing</item>
+
+        <item>@string/bracelet_interface_mountaineering</item>
+        <item>@string/bracelet_interface_spinning_bike</item>
+        <item>@string/bracelet_interface_yoga</item>
+        <item>@string/bracelet_interface_sit_ups</item>
+        <item>@string/bracelet_interface_treadmill</item>
+        <item>@string/bracelet_interface_gymnastics</item>
+        <item>@string/bracelet_interface_boating</item>
+        <item>@string/bracelet_interface_jumping_jack</item>
+
+        <item>@string/bracelet_interface_stopwatch</item>
+        <item>@string/bracelet_interface_body_fat</item>
+        <item>@string/bracelet_interface_hockey</item>
+        <!--暂时补全8个，避免ble出错导致应用奔溃。后面ble补充其他界面时，再对应修改-->
+        <item>@string/bracelet_interface_body_fat</item>
+        <item>@string/bracelet_interface_body_fat</item>
+        <item>@string/bracelet_interface_body_fat</item>
+        <item>@string/bracelet_interface_body_fat</item>
+        <item>@string/bracelet_interface_body_fat</item>
+
+    </string-array>
+</resources>

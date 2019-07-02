@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="back_margin_left">15dp</dimen>
+</resources>
